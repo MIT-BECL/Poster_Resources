@@ -16,7 +16,6 @@ The files within this repository can be downloaded using the green "clone or dow
 Inside this repository contains:
   - Templates
   - Annotated example of best practices
-  - A guide on creating your first scientific poster
   - A guide on using the Master Slide in Microsoft PowerPoint
   
 ## Opening Illustrator files without Illustrator
