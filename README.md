@@ -19,6 +19,16 @@ Inside this repository contains:
   - A guide on creating your first scientific poster
   - A guide on using the Master Slide in Microsoft PowerPoint
   
+## Opening Illustrator files without Illustrator
+Alternative programs can open and edit Illustrator files
+  - [Inkscape](https://inkscape.org/) FREE
+  - (Mac only) [Affinity Designer](https://affinity.serif.com/en-us/designer/) $50
+  - Adobe reader can sometimes view .ai files without editing capabilities
+  
+## Guides for getting started with Illustrator
+- [Adobe-produced tutorials](https://helpx.adobe.com/illustrator/tutorials.html)
+- [Another useful tutorial / activity](https://www.pgsd.org/cms/lib07/PA01916597/Centricity/Domain/202/illustrator_for_beginners_tastytuts.pdf)
+  
 ## More Resources
 Check out our list of resources
 - [Data visualization resources](https://github.com/MIT-BECL/awesome-becl-resources#data-visualization-resources)
