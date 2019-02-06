@@ -36,7 +36,12 @@ Alternative programs can open and edit Illustrator files
 - [Adobe-produced tutorials](https://helpx.adobe.com/illustrator/tutorials.html)
 - [Another useful tutorial / activity](https://www.pgsd.org/cms/lib07/PA01916597/Centricity/Domain/202/illustrator_for_beginners_tastytuts.pdf)
 - [Youtube playlist tutorial - Adobe Illustrator for scientists](https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ)
-  
+
+## Click image...
+[<img src="48x36_Vertical_Example_withAnnotations.png"
+     style="float: left; margin-right: 10px;" />](https://github.com/MIT-BECL/Poster_Resources/tree/master/PowerPoint%20Templates)  
+
+
 ## More Resources
 Check out our list of resources
 - [Data visualization resources](https://github.com/MIT-BECL/awesome-becl-resources#data-visualization-resources)
