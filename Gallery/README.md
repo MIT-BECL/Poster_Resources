@@ -5,3 +5,6 @@
 
 ## Style 2
 [<img src="Horizontal_Style2.png" width="500">](Illustrator_Templates/36x48_Horizontal_Style2.ai "Horizontal Style2")
+
+[<img src="Vertical_Style2.png" height="500">](Illustrator_Templates/48x36_Vertical_Style2.ai "Vertical Style1")
+
