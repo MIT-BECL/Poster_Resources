@@ -16,7 +16,7 @@ The files within this repository can be downloaded using the green "clone or dow
 This repository contains:
   - Templates
   - Annotated example of best practices
-  - [A guide on using the Master Slide in Microsoft PowerPoint](https://github.com/MIT-BECL/Poster_Resources/Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
+  - [A guide on using the Master Slide in Microsoft PowerPoint](Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
   
 ## Opening Illustrator files without Illustrator
 Alternative programs can open and edit Illustrator files
