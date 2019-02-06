@@ -6,5 +6,4 @@
 [<img src="../Gallery/Vertical_Style1.png" height="500">](48x36_Vertical_Style1.pptx "Vertical Style 1")
 
 # Style 2
-## Vertical 
 [<img src="../Gallery/Vertical_Style2.png" height="500">](48x36_Vertical_Style2.pptx "Vertical Style 2")
