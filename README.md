@@ -39,7 +39,7 @@ Alternative programs can open and edit Illustrator files
 
 ## Annotated Example
 <img src="./Gallery/Annotated_Example.png"
-     style="float: left; margin-right: 10px;" width="700">
+     style="float: left; margin-right: 10px;" >
 
 ## More Resources
 Check out our list of resources
