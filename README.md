@@ -9,11 +9,11 @@ Prerna Bhargava, Kyle McLean, Josh Peters, Divya Ramamoorthy, George Sun
 
 ---
 ## Introduction
-This repository provides multiple templates for a scientific poster.  The templates are made available in different formats - Microsoft PowerPoint (.ppt) and Adobe Illustrator (.ai) - and both orientations. 
+This repository provides multiple templates for a scientific poster.  The templates are made available in different formats - Microsoft PowerPoint (.ppt) and Adobe Illustrator (.ai) - and in both orientations. 
 
 ## Getting Started
 The files within this repository can be downloaded using the green "clone or download" button above.  
-Inside this repository contains:
+This repository contains:
   - Templates
   - Annotated example of best practices
   - A guide on using the Master Slide in Microsoft PowerPoint
