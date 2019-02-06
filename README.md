@@ -5,7 +5,7 @@ Tyler Toth, Alex Triassi
 *Support by*
 Prerna Bhargava, Kyle McLean, Josh Peters, Divya Ramamoorthy, George Sun
 
-**Last Updated: 7 January 2019**
+**Last Updated: 6 February 2019**
 
 ---
 ## Table of contents
