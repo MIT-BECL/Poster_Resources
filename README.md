@@ -8,6 +8,13 @@ Prerna Bhargava, Kyle McLean, Josh Peters, Divya Ramamoorthy, George Sun
 **Last Updated: 7 January 2019**
 
 ---
+## Table of contents
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Opening Illustrator files without Illustrator](#opening-illustrator-files-without-illustrator)
+- [Guides for Getting Started with Illustrator](#guides-for-getting-started-with-illustrator)
+- [More Resources](#more-resources)
+
 ## Introduction
 This repository provides multiple templates for a scientific poster.  The templates are made available in different formats - Microsoft PowerPoint (.ppt) and Adobe Illustrator (.ai) - and in both orientations. 
 
