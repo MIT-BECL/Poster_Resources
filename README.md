@@ -21,7 +21,7 @@ This repository provides multiple templates for a scientific poster.  The templa
 ## Getting Started
 The files within this repository can be downloaded using the green "clone or download" button above.  
 This repository contains:
-  - [PowerPoint Templates](https://github.com/MIT-BECL/Poster_Resources/PowerPoint%20Templates/)
+  - [PowerPoint Templates](https://github.com/MIT-BECL/Poster_Resources/tree/master/PowerPoint%20Templates)
   - Illustrator Templates
   - Annotated example of best practices
   - [A guide on using the Master Slide in Microsoft PowerPoint](Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
