@@ -39,7 +39,7 @@ Alternative programs can open and edit Illustrator files
 
 ## Click image...
 [<img src="48x36_Vertical_Example_withAnnotations.png"
-     style="float: left; margin-right: 10px;" />](https://github.com/MIT-BECL/Poster_Resources/tree/master/PowerPoint%20Templates)  
+     style="float: left; margin-right: 10px;" width="700"/>](https://github.com/MIT-BECL/Poster_Resources/tree/master/PowerPoint%20Templates)  
 
 
 ## More Resources
