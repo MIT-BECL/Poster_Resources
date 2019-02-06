@@ -38,7 +38,7 @@ Alternative programs can open and edit Illustrator files
 - [Youtube playlist tutorial - Adobe Illustrator for scientists](https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ)
 
 ## Click image...
-[<img src="48x36_Vertical_Example_withAnnotations.png"
+[<img src="Annotationed_Example.png"
      style="float: left; margin-right: 10px;" width="700"/>](https://github.com/MIT-BECL/Poster_Resources/tree/master/PowerPoint%20Templates)  
 
 
