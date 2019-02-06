@@ -21,9 +21,9 @@ This repository provides multiple templates for a scientific poster.  The templa
 ## Getting Started
 The files within this repository can be downloaded using the green "clone or download" button above.  
 This repository contains:
-  - [PowerPoint Templates](https://github.com/MIT-BECL/Poster_Resources/tree/master/PowerPoint%20Templates)
-  - [Illustrator Templates](https://github.com/MIT-BECL/Poster_Resources/tree/master/Illustrator%20Templates)
-  - Annotated example of best practices
+  - [PowerPoint Templates](PowerPoint_Templates/)
+  - [Illustrator Templates](Illustrator_Templates/)
+  - [Annotated example of best practices](48x36_Vertical_Example_withAnnotations.pdf)
   - [A guide on using the Master Slide in Microsoft PowerPoint](Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
   
 ## Opening Illustrator files without Illustrator
@@ -39,7 +39,7 @@ Alternative programs can open and edit Illustrator files
 
 ## Annotated Example
 <img src="./Gallery/Annotated_Example.png"
-     style="float: left; margin-right: 10px;" >
+     style="float: left; margin-right: 10px;" title="test">
 
 ## More Resources
 Check out our list of resources
