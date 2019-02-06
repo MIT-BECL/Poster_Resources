@@ -38,8 +38,8 @@ Alternative programs can open and edit Illustrator files
 - [Youtube playlist tutorial - Adobe Illustrator for scientists](https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ)
 
 ## Annotated Example
-<img src="./Gallery/Annotated_Example.png"
-     style="float: left; margin-right: 10px;" title="test">
+[<img src="./Gallery/Annotated_Example.png"
+     style="float: left; margin-right: 10px;">](48x36_Vertical_Example_withAnnotations.pdf "Annotated Example")
 
 ## More Resources
 Check out our list of resources
