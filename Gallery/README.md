@@ -6,3 +6,4 @@
 ## Style 2
 <img src="Horizontal_Style2.png" width="500">
 
+<img src="Vertical_Style2.png" height="500">
