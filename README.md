@@ -1,4 +1,4 @@
-#  Poster-Templates
+#  Poster Templates
 *Compiled by*
 Tyler Toth, Alex Triassi
 
