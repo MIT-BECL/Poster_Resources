@@ -33,8 +33,8 @@ For help with Adobe Illustrator, .ai file types, and other poster-related resour
 ## Opening Illustrator files without Illustrator
 Alternative programs can open and edit Illustrator files
   - [Inkscape](https://inkscape.org/) FREE
-  - (Mac only) [Affinity Designer](https://affinity.serif.com/en-us/designer/) $50
-  - Adobe reader can sometimes view .ai files without editing capabilities
+  - [Affinity Designer](https://affinity.serif.com/en-us/designer/) (Mac only) $50
+  - Adobe Reader can sometimes view .ai files without editing capabilities
   
 ## Guides for getting started with Illustrator
 - [Adobe-produced tutorials](https://helpx.adobe.com/illustrator/tutorials.html)
