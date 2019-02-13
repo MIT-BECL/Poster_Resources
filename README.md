@@ -24,7 +24,7 @@ This repository contains:
   - [PowerPoint Templates](PowerPoint_Templates/)
   - [Illustrator Templates](Illustrator_Templates/)
   - [Annotated example of best practices](Annotated_Examples/48x36_Vertical_Example_withAnnotations.pdf)
-  - [A guide on using the Master Slide in Microsoft PowerPoint](Powerpoint_Templates/Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
+  - [A guide on using the Master Slide in Microsoft PowerPoint](PowerPoint_Templates/Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
   
 ## Opening Illustrator files without Illustrator
 Alternative programs can open and edit Illustrator files
