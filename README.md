@@ -22,7 +22,7 @@ The files within this repository can be downloaded using the green "clone or dow
 This repository contains:
   - [PowerPoint Templates](PowerPoint_Templates/)
   - [Illustrator Templates](Illustrator_Templates/)
-  - [Annotated example of best practices](48x36_Vertical_Example_withAnnotations.pdf)
+  - [Annotated example of best practices](Annotated_Examples/48x36_Vertical_Example_withAnnotations.pdf)
   - [A guide on using the Master Slide in Microsoft PowerPoint](Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
   
 ## Opening Illustrator files without Illustrator
@@ -38,7 +38,7 @@ Alternative programs can open and edit Illustrator files
 
 ## Annotated Example
 [<img src="./Gallery/Annotated_Example.png"
-     style="float: left; margin-right: 10px;">](48x36_Vertical_Example_withAnnotations.pdf "Annotated Example")
+     style="float: left; margin-right: 10px;">](Annotated_Examples/48x36_Vertical_Example_withAnnotations.pdf "Annotated Example")
 
 ## More Resources
 Check out our list of resources
