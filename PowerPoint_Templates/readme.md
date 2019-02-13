@@ -1,3 +1,5 @@
+For help with editing these templates, please refer to the [Guide to using a Microsoft PowerPoint Master Slide](Using a Microsoft PowerPoint Poster Template.pdf "Using a Microsoft PowerPoint Poster Template")
+
 # Style 1
 ## Horizontal
 [<img src="../Gallery/Horizontal_Style1.png" width="500">](36x48_Horizontal_Style1.pptx "Horizontal Style 1")
