@@ -19,7 +19,7 @@ This repository contains:
   - [Annotated example of best practices](Annotated_Examples/48x36_Vertical_Example_withAnnotations.pdf)
   - [A guide on using the Master Slide in Microsoft PowerPoint](PowerPoint_Templates/Using%20a%20Microsoft%20PowerPoint%20Poster%20Template.pdf)
 
-## Template Style 2 in use<br/>(annotated with best practices for creating a poster)
+## Template Style 2 in use (annotated with best practices)
 [<img src="./Gallery/Annotated_Example.png"
      style="float: left; margin-right: 10px;">](Annotated_Examples/48x36_Vertical_Example_withAnnotations.pdf "Annotated Example")
 
