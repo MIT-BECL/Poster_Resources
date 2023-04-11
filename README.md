@@ -1,6 +1,6 @@
 #  Poster Templates
 *Compiled by*
-Tyler Toth, Alex Triassi, Chiara Ricci-Tam
+Tyler Toth, Alex Triassi
 
 *Support by*
 Prerna Bhargava, Kyle McLean, Josh Peters, Divya Ramamoorthy, George Sun
