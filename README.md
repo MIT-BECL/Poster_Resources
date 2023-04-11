@@ -2,6 +2,9 @@
 *Compiled by*
 Tyler Toth, Alex Triassi
 
+*Updated by*
+Chiara Ricci-Tam
+
 *Support by*
 Prerna Bhargava, Kyle McLean, Josh Peters, Divya Ramamoorthy, George Sun
 
