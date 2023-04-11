@@ -1,11 +1,11 @@
 #  Poster Templates
 *Compiled by*
-Tyler Toth, Alex Triassi
+Tyler Toth, Alex Triassi, Chiara Ricci-Tam
 
 *Support by*
 Prerna Bhargava, Kyle McLean, Josh Peters, Divya Ramamoorthy, George Sun
 
-**Last Updated: 13 February 2019**
+**Last Updated: 11 April 2023**
 
 ---
 ## What's in this repository
