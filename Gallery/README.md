@@ -14,4 +14,4 @@
 
 ## #evenbetterposter Templates
 <img src="evenbetterposter_48x36_horizontal_PPT.png" width="500">
-<img src="evenbetterposter_36x48_vertical_PPT.png" width="500">
+<img src="evenbetterposter_36x48_vertical_PPT.png" height="500">
