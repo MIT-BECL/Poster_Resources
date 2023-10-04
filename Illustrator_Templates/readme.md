@@ -20,6 +20,6 @@
 
 # Style #evenbetterposter
 ### Horizontal
-[<img src="../Gallery/evenbetterposter_template_48x36_horizontal_illustrator.png" width="500">](evenbetterposter_template_48x36_horizontal.ai "Horizontal Style evenbetterposter")
+[<img src="../Gallery/evenbetterposter_template_horizontal_AI.png" width="500">](evenbetterposter_template_48x36_horizontal.ai "Horizontal Style evenbetterposter")
 ### Vertical
-[<img src="../Gallery/evenbetterposter_template_36x48_vertical_illustrator.png" height="500">](evenbetterposter_template_36x48_vertical.ai "Vertical Style evenbetterposter")
+[<img src="../Gallery/evenbetterposter_template_vertical_AI.png" height="500">](evenbetterposter_template_36x48_vertical.ai "Vertical Style evenbetterposter")
