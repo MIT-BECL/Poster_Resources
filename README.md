@@ -38,7 +38,7 @@ Alternative programs can open and edit Illustrator files
 - [Adobe-produced tutorials](https://helpx.adobe.com/illustrator/tutorials.html)
 - [Another useful tutorial / activity](https://www.pgsd.org/cms/lib07/PA01916597/Centricity/Domain/202/illustrator_for_beginners_tastytuts.pdf)
 - [Youtube playlist tutorial - Adobe Illustrator for scientists](https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ)
-- BE Comm Lab blog post: [Introduction to illustrator and helpful resources](https://mitcommlab.mit.edu/be/2021/09/09/introduction-to-illustrator-and-helpful-resources/)
+- BE Comm Lab blog post: [Introduction to Illustrator and Helpful Resources](https://mitcommlab.mit.edu/be/2021/09/09/introduction-to-illustrator-and-helpful-resources/)
 
 ### More Resources
 Check out our list of resources
